@@ -208,7 +208,7 @@ body {
 
 #main-body {
     overflow-y: scroll;
-    max-height: 550px;
+    max-height: 100%;
     width: 88%;
     position: fixed;
     left: 155px;
