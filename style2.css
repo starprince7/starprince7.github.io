@@ -132,10 +132,9 @@ body {
     position: fixed;
     background-color: rgb(221, 217, 217);
     width: 100%;
-    height: auto;
+    height: 100%;
     left: 0px;
     top: 12.5%;
-    transition: left, 0.1s ease-in;
 
 }
 
