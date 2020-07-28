@@ -66,10 +66,15 @@ div #header-nav {
     text-decoration: none;
     color: grey;
 }
-#footer div {
+
+#footer .copy-right {
+    position: relative;
+    bottom: 25px;
+    left: 50px;
     text-align: center;
+    margin-top: 2px;
+    width: 300px;
     text-transform: capitalize;
-    margin: 10px;
 }
 
 /*================================THIS IS FOR MY SIDE BAR===================*/
