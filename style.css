@@ -89,7 +89,7 @@ div #header-nav {
     height: 100%;
     left: -257px;
     top: 0;
-    transition: left, 0.05s ease-out;
+    transition: left, 0.05s ease;
 
 
 }
@@ -120,7 +120,7 @@ div #header-nav {
     max-height: 100%;
     width: 100%;
     position: absolute;
-    left: 255px;
+    left: 257px;
     margin-left: 0px;
     top: 0;
     background-color: black;
@@ -250,7 +250,7 @@ div .title {
 
 .about-paragraph {
     position: absolute;
-    left: 80px;
+    left: 75px;
     top: 180px;
     line-height: 1.5em;
     color: white;
