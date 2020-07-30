@@ -45,6 +45,11 @@ body {
     font-size: 90%;  
 }
 
+#main-header a .material-icons {
+    margin-right: 5px;
+}
+
+
 #main-header a:active {
     border-bottom: solid 6px black;
     color: black;
