@@ -85,9 +85,9 @@ div #header-nav {
 
     position: fixed;
     background-color: black;
-    width: 250px;
+    width: 400px;
     height: 100%;
-    left: -250px;
+    left: -257px;
     top: 0;
     transition: left, 0.05s ease-out;
 
@@ -118,7 +118,7 @@ div #header-nav {
 #main-body {
     overflow-y: scroll;
     max-height: 100%;
-    width: 400px;
+    width: 100%;
     position: absolute;
     left: 255px;
     margin-left: 0px;
@@ -154,6 +154,10 @@ div #header-nav {
     font-family: arial;
 }
 
+#sidebar-content a .material-icons {
+    margin-right: 15px;
+}
+
 #sidebar-content a:active {
     background-color: silver;
     color: black;
@@ -167,7 +171,7 @@ div #header-nav {
 
 #sidebar-content .second-table {
     position: absolute;
-    width: 248px;
+    width: 254px;
     height: auto;
     color black;
     top: 0%;
