@@ -51,7 +51,7 @@ body {
 
 
 #main-header a:active {
-    border-bottom: solid 6px black;
+    /*border-bottom: solid 6px black;*/
     color: black;
 }
 
@@ -267,7 +267,7 @@ body {
     margin-right: auto;
 }
 .gallery:first-child {
-    max-width: 70%;
+    max-width: 85%;
     height: 480px;
     margin-left: auto;
     margin-right: auto;
