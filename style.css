@@ -276,7 +276,7 @@ body {
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
-    width: 400px;
+    max-width: 480px;
     height: 100%;
     overflow-x: hidden;
 }
