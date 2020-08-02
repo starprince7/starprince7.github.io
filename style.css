@@ -85,9 +85,9 @@ div #header-nav {
 
     position: fixed;
     background-color: black;
-    width: 400px;
+    width: 100%;
     height: 100%;
-    left: -257px;
+    left: -63%;
     top: 0;
     transition: left, 0.15s ease;
 
@@ -171,7 +171,7 @@ div #header-nav {
 
 #sidebar-content .second-table {
     position: absolute;
-    width: 256px;
+    width: 63.07%;
     height: auto;
     color black;
     top: 0%;
@@ -276,7 +276,7 @@ body {
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
-    width: 300px;
+    width: 400px;
     height: 100%;
     overflow-x: hidden;
 }
